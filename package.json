@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@level-ci/a11y-playwright": "^0.2.5-alpha-20260731083506",
-    "@level-ci/cli": "^0.1.21-alpha.3166",
+    "@level-ci/cli": "^0.2.0-alpha-b4b898ecd6a39c43ce602128d0b21a4de75b4df6",
     "@level-ci/ngrok": "^0.1.8-alpha.2860",
     "@playwright/test": "^1.57.0",
     "@types/node": "^24.5.2",

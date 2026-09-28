@@ -37,7 +37,4 @@ jobs:
           NGROK_AUTHTOKEN: ${{ secrets.NGROK_AUTHTOKEN }}
         with:
           token: ${{ secrets.LEVEL_CI_TOKEN }}
-          secondary_repository_key: project-b
-          branch: main
-          commit_hash: ${{ github.sha }}
           report_paths: './level-ci-reports'
